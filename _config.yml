@@ -134,7 +134,6 @@ scholar:
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
-  reference_tagname: div
 
   replace_strings: true
   join_strings: true
